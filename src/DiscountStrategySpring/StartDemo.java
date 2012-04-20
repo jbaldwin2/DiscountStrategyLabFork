@@ -16,7 +16,7 @@ package DiscountStrategySpring;
  */
 public class StartDemo {
     public static void main(String[] args) {
-
+ 
         CashRegister cr = new CashRegister();
 
         // NOTICE the actual work is encapsulated inside the CashRegister.
